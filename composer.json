@@ -1,4 +1,6 @@
 {
+    "name": "james-draper/cocoon",
+    "description": "A simple php view renderer.",
     "config": {
         "bin-dir": "bin"
     },
