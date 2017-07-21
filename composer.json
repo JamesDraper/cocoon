@@ -2,6 +2,7 @@
     "name": "james-draper/cocoon",
     "description": "A simple php view renderer.",
     "type": "library",
+    "license": "MIT",
     "config": {
         "bin-dir": "bin"
     },
