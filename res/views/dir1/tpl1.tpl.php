@@ -1,0 +1,1 @@
+|<?php echo $this->name1; ?>|<?php echo $this->name2; ?>|

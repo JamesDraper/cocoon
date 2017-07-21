@@ -1,0 +1,1 @@
+<?php echo $this->getVals($this->name1); ?>

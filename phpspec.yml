@@ -1,0 +1,4 @@
+suites:
+    cocoon_suite:
+        namespace: Cocoon
+        psr4_prefix: Cocoon
